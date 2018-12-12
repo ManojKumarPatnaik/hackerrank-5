@@ -10,7 +10,7 @@ Although getting partial solutions to problems is often integral to my placement
 
 * Placed: 49/519
 * Link: https://www.hackerrank.com/contests/moodys-analytics-2018-women-in-engineering/challenges
-* Code: My solutions to come
+* Code: https://github.com/elliotgreenlee/hackerrank/tree/master/moodys_analytics_women_in_engineering_hackathon_2018
 
 #### Goldman Sachs Women's CodeSprint  
 
